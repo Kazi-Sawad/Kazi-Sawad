@@ -29,6 +29,18 @@ fun_fact     : Obsessed with gaming platforms and mobile phone chipsets
 
 ---
 
+## 🏅 Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sawad695)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sawad_64I_1374)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sawad50/)
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🖥️ Languages
@@ -158,19 +170,6 @@ fun_fact     : Obsessed with gaming platforms and mobile phone chipsets
 
 </div>
 
----
-
-## 🏅 Competitive Programming
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sawad695)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sawad_64I_1374)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sawad50/)
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
